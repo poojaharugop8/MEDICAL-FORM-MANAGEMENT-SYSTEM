@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1542278095 source:c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\admit.c
+	"header.h"
+
+1542278653 c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1542278146 source:c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\admitdisp.c
+	"header.h"
+
+1542278204 source:c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\discharge.c
+	"header.h"
+
+1542278257 source:c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\dischargedisp.c
+	"header.h"
+
+1542278051 source:c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\main.c
+	"header.h"
+
+1542278497 source:c:\users\manjunath\desktop\pooja project\new folder\new folder\hos\display.c
+	"header.h"
+
+1542676356 source:c:\users\hp\desktop\pooja project\new folder\new folder\hos\admit.c
+	"header.h"
+
+1542675819 c:\users\hp\desktop\pooja project\new folder\new folder\hos\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1542647228 source:c:\users\hp\desktop\pooja project\new folder\new folder\hos\display.c
+	"header.h"
+
+1542649153 source:c:\users\hp\desktop\pooja project\new folder\new folder\hos\main.c
+	"header.h"
+
+1542676356 source:c:\users\hp\desktop\pooja project\new folder\new folder\hos\admitdisp.c
+	"header.h"
+
+1542676141 source:c:\users\hp\desktop\pooja project\new folder\new folder\hos\discharge.c
+	"header.h"
+
+1542652527 source:c:\users\hp\desktop\pooja project\new folder\new folder\hos\dischargedisp.c
+	"header.h"
+
+1542676356 source:c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\admit.c
+	"header.h"
+
+1542675819 c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1542676356 source:c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\admitdisp.c
+	"header.h"
+
+1542676141 source:c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\discharge.c
+	"header.h"
+
+1542652527 source:c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\dischargedisp.c
+	"header.h"
+
+1542647228 source:c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\display.c
+	"header.h"
+
+1542649153 source:c:\users\hp\desktop\3rd sem project\pooja project\new folder\new folder\hos\main.c
+	"header.h"
+
